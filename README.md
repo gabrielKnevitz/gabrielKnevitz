@@ -26,7 +26,7 @@
   <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="PostgreSql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">  
   <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
-  <img align="left" alt="gif-Rafael" height="200" width="200" border="50" src="https://user-images.githubusercontent.com/117126177/209234057-6a545327-fa70-444c-bd0f-b8ae06684aeb.gif"> 
+ 
     
  
 </div>
